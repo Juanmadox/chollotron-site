@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chollotron.kodentra.es/sitemap.xml
